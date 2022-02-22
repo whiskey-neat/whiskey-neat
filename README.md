@@ -14,6 +14,7 @@
 <h1 align="center">
 Hi, I'm Whiskey Neat
 </h1>
+<h3 align="center"> 🎓 Computing student in the UK 🎓</h3>
 
 ---
 
