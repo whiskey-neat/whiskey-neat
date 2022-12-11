@@ -11,10 +11,26 @@
   -->
 
 
-<h1 align="center">
-Hi, I'm Whiskey Neat
-</h1>
-<h3 align="center"> 🎓 Computing student in the UK 🎓</h3>
+<h1 align="center"> Hi, I'm Whiskey Neat </h1>
+
+<h2 align="center"> Computing Student in the UK </h2>
+
+---
+
+<h3> :zap: Quick Bits </h3>
+
+- :mortar_board: Currently studying `BSc (Hons) Cyber Security`
+- :seedling: Developing my `Python` scripting skills
+- :rocket: Aiming to reach the **Top 5%** on `TryHackMe` 
+  - 11/12/2022: Top 8%
+
+---
+
+<h3> :hourglass_flowing_sand: Long Term Goals </h3>
+
+- Find an `industrial placement` for **Sept 2024**
+- Aquire some certifications: `CCNA`, `CCNP Security`, `CISSP` etc...
+- Graduate in 2026 with `1st Degree Honours`
 
 ---
 
