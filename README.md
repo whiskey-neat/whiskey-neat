@@ -23,6 +23,7 @@
 - :seedling: Developing my `Python` scripting skills
 - :rocket: Aiming to reach the **Top 5%** on `TryHackMe` 
   - 11/12/2022: Top 8%
+  - 28/01/2023: Top 7%
 
 ---
 
