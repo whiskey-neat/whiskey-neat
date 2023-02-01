@@ -29,6 +29,7 @@
 
 <h3> :hourglass_flowing_sand: Long Term Goals </h3>
 
+- Create and publish a website to showcase my projects, skills and progress
 - Find an `industrial placement` for **Sept 2024**
 - Aquire some certifications: `CCNA`, `CCNP Security`, `CISSP` etc...
 - Graduate in 2026 with `1st Degree Honours`
