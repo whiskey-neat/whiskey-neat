@@ -13,7 +13,7 @@
 
 <h1 align="center"> Hi, I'm Whiskey Neat </h1>
 
-<h2 align="center"> Computing Student in the UK </h2>
+<h2 align="center"> Cyber Security Student </h2>
 
 ---
 
