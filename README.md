@@ -30,7 +30,7 @@
 <h3> :hourglass_flowing_sand: Long Term Goals </h3>
 
 - Create and publish a website to showcase my projects, skills and progress
-- Find an `industrial placement` for **Sept 2024**
+- ✅ ~~Find an `industrial placement` for **Sept 2024**~~    (I've got one 🎉)
 - Aquire some certifications: `CCNA`, `CCNP Security`, `CISSP` etc...
 - Graduate in 2026 with `1st Degree Honours`
 
@@ -39,6 +39,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/HcFxAcCRKW8ow/giphy.gif" width="600"/>
 </div>
+
+<p align="center">^^ I love sloths</p>
 
 ---
 
