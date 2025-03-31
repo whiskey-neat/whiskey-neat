@@ -24,6 +24,19 @@
 - :rocket: Aiming to reach the **Top 5%** on `TryHackMe` 
   - 11/12/2022: Top 8%
   - 28/01/2023: Top 7%
+  - 30/03/2025: Top 5%
+ 
+  <br>
+
+  <div id="thm-badge" align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/whiskeyneat.png" alt="TryHackMe Profile Badge"/>
+  </div>
+
+  <!--
+  <div id="badges" align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/whiskeyneat.png" alt="TryHackMe">
+  </div>
+  -->
 
 ---
 
@@ -31,7 +44,7 @@
 
 - Create and publish a website to showcase my projects, skills and progress
 - ✅ ~~Find an `industrial placement` for **Sept 2024**~~    (I've got one 🎉)
-- Aquire some certifications: `CCNA`, `CCNP Security`, `CISSP` etc...
+- Aquire some certifications: `CCNA`, `CCNP Security` etc...
 - Graduate in 2026 with `1st Degree Honours`
 
 ---
@@ -43,16 +56,6 @@
 <p align="center">^^ I love sloths</p>
 
 ---
-
-<h1 align="center"> 🛠🦺 UNDER CONSTRUCTION 🦺🛠 </h1>
-
----
-
-<!--
-<div id="badges" align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/whiskeyneat.png" alt="TryHackMe">
-</div>
--->
 
 <!--
 **whiskey-neat/whiskey-neat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
