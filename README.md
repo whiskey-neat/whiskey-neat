@@ -35,6 +35,7 @@
 - Create and publish a website to showcase my projects, skills and progress
 - ✅ ~~Find an `industrial placement` for **Sept 2024**~~    (I've got one 🎉)
 - Aquire some certifications: `CCNA`, `CCNP Security` etc...
+  - 08/07/2025: Security Blue Team: [Blue Team Level 1 (BTL1)](https://www.credly.com/badges/edecf2fb-9108-47d5-8de9-456f035d8a33/public_url)
 - Graduate in 2026 with `1st Degree Honours`
 
 ---
